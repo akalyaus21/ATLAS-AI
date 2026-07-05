@@ -1,0 +1,6 @@
+{
+  "name": "ATLAS - AI-Driven Placement Coordinator System",
+  "description": "An enterprise-grade campus recruitment portal automating profiles, drive registration, resume matching, and placement intelligence powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
